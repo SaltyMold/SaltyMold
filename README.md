@@ -7,9 +7,8 @@
 - 📫 How to reach me Salty
 - 😄 Pronouns: Salty/SaltyMold
 - ⚡ Fun fact: Salty is SaltyMold
-- 🌍 I'm French
+- 🌍 I'm French <img src="https://github.com/user-attachments/assets/7b831ebc-20df-4096-9246-f5138dc798c0" width="20" alt="French-Flag" align="absmiddle">
 - 🎂 I'm 15
-
 
 # 📊 GitHub Stats:
 
