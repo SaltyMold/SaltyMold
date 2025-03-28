@@ -1,3 +1,5 @@
+# 🙃 About me:
+
 - 👋 Hi, I’m @SaltyMold
 - 👀 I’m interested by Salty
 - 🌱 I’m currently learning Salty
@@ -7,6 +9,12 @@
 - ⚡ Fun fact: Salty is SaltyMold
 - 🌍 I'm French
 - 🎂 I'm 15
+
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyMold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!---
 SaltyMold/SaltyMold is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
