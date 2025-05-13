@@ -7,7 +7,7 @@
 - 📫 How to reach me Salty
 - 😄 Pronouns: Salty/SaltyMold
 - ⚡ Fun fact: Salty is SaltyMold
-- 🌍 I'm French <img src="https://github.com/user-attachments/assets/7b831ebc-20df-4096-9246-f5138dc798c0" width="20" alt="French-Flag" align="absmiddle">
+- 🌍 I'm French <img src="https://github.com/user-attachments/assets/7b831ebc-20df-6096-9246-f5138dc798c0" width="20" alt="French-Flag" align="absmiddle">
 - 🎂 I'm 15
 
 # 📊 GitHub Stats:
@@ -18,6 +18,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SaltyMold&show_icons=true&theme=synthwave" alt="GitHub Stats" height="220"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyMold&theme=synthwave" alt="Top Langs" height="220"/>
 </p>
+
+
+# 🚀 Some Tools I Have Used and Learned
+<p align="left"></a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
 
 
 <!---
