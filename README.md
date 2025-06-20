@@ -1,10 +1,10 @@
 # 🙃 About me:
 
 - 👋 Hi, I’m @SaltyMold
-- 👀 I’m interested by Salty
-- 🌱 I’m currently learning Salty
+- 👀 I’m interested by programming
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate with SaltyMold
-- 📫 How to reach me Salty
+- 📫 How to reach me saltymold9812@gmail.com
 - 😄 Pronouns: Salty/SaltyMold
 - ⚡ Fun fact: Salty is SaltyMold
 - 🌍 I'm French <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="20" alt="French-Flag">
