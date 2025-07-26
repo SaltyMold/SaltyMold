@@ -8,7 +8,7 @@
 - 😄 Pronouns: Salty/SaltyMold
 - ⚡ Fun fact: Salty is SaltyMold
 - 🌍 I'm French <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="20" alt="French-Flag">
-- 🎂 I'm 15
+- 🎂 I'm 16
 
 # 📊 GitHub Stats:
 
@@ -22,7 +22,7 @@
 
 # 🚀 Some Tools I Have Used and Learned
 <p align="left"></a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="c" width="53" height="60"/> 
 </a> 
 <a 
 href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> 
