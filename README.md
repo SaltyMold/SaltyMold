@@ -14,11 +14,9 @@
 
 <!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyMold&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)--->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaltyMold&show_icons=true&theme=synthwave" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyMold&theme=synthwave" alt="Top Langs" height="200"/>
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=SaltyMold&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SaltyMold&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaltyMold&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🚀 Some Tools I Have Used and Learned
 <p align="left"></a> 
