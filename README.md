@@ -2,13 +2,12 @@
 
 - 👋 Hi, I’m @SaltyMold
 - 👀 I’m interested by programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate with SaltyMold
 - 📫 How to reach me saltymold9812@gmail.com
 - 😄 Pronouns: Salty/SaltyMold
 - ⚡ Fun fact: Salty is SaltyMold
 - 🌍 I'm French <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="20" alt="French-Flag">
-- 🎂 I'm 16
 
 # 📊 GitHub Stats:
 
