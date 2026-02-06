@@ -4,7 +4,7 @@
 - 👀 I’m interested by programming
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate with SaltyMold
-- 📫 How to reach me saltymold9812@gmail.com
+- 📫 How to reach me : SaltyMold_ on discord
 - 😄 Pronouns: Salty/SaltyMold
 - ⚡ Fun fact: Salty is SaltyMold
 - 🌍 I'm French <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="20" alt="French-Flag">
