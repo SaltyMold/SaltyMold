@@ -7,7 +7,6 @@
 - 📫 How to reach me : SaltyMold_ on discord
 - 😄 Pronouns: Salty/SaltyMold
 - ⚡ Fun fact: Salty is SaltyMold
-- 🌍 I'm French <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" width="20" alt="French-Flag">
 
 # 📊 GitHub Stats:
 
